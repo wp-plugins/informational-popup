@@ -10,7 +10,7 @@ Creates informational popups that animate into the viewport.
 
 == Description ==
 
-Informational Popup shortcode to create animated popup windows. It supports text, images, links, and video embeds. Create dynamic foot notes, explore digressions, extend your posts.  
+Informational Popup is a shortcode to create animated popup windows. It supports text, images, links, and video embeds. Create dynamic foot notes, explore digressions, extend your posts.  
 
 example: 
 [info_popup pop_title="Headline at the Top of the Window" message="This is the main text" pop_image="example.jpg"]clickable text in your post or page.[/info_pop]
@@ -55,7 +55,7 @@ Installation for General Use
 
 *A quick work-around to get your popups working in the search results:
 
-*Go to your theme's search.php page. Find the main loop and look for the_excerpt(). Comment out whatever code is associated with the_excerpt()---probablly just the rest of the statement. In other words, comment out everything between the_excerpt() and the terminating ';'.
+Go to your theme's search.php page. Find the main loop and look for the_excerpt(). Comment out whatever code is associated with the_excerpt()---probablly just the rest of the statement. In other words, comment out everything between the_excerpt() and the terminating ';'. In its place you can use the_content(); This will give you the entire post complete with shortcodes. Otherwise, you could write a custom excerpt function. I will publish some examples with future versions.
 
 
 
