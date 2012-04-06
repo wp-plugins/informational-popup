@@ -4,7 +4,7 @@ Donate link: none right now
 Tags: popup,simple,window,shortcode,video,images
 Requires at least: 2.8
 Tested up to: 3.3.1
-Stable tag: 1  
+Stable tag: trunk  
 
 Creates informational popups that animate into the viewport.  
 
