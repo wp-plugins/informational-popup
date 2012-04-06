@@ -62,9 +62,9 @@ Go to your theme's search.php page. Find the main loop and look for the_excerpt(
 
 == Screenshots ==
 
-1. Example.
+1. This is the options page where you can set the colors and the animation.
 
-2. Options.
+2. Here's an example of how the window can look after it slides in from the left. You can also have it fade in.
 
 == Changelog ==
 
