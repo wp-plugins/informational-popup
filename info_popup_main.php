@@ -3,7 +3,7 @@
 Plugin Name: popup shortcode
 
 Description: shortcode for nice looking, easy popups. supports photos and video
-Version: The Plugin's Version Number, e.g.: 1.0
+Version: 1.0
 Author: Josh Keen
 
 License: GPL2
