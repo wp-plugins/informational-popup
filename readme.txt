@@ -4,14 +4,13 @@ Donate link: none right now
 Tags: popup,simple,window,shortcode,video,images
 Requires at least: 2.8
 Tested up to: 3.3.1
+Stable tag: trunk  
 
-
-Shortcode for use in any post or page. Creates informational popups that animate into the viewport when you click on the text wrapped by the shortcode.  
+Creates informational popups that animate into the viewport.  
 
 == Description ==
 
-Informational Popup is an user-friendly shortcode you can use in posts and pages to create animated popup windows. It supports text, images, links, and video embeds. Create dynamic foot notes, explore digressions, extend your posts.  
-
+Informational Popup shortcode to create animated popup windows. It supports text, images, links, and video embeds. Create dynamic foot notes, explore digressions, extend your posts.  
 
 example: 
 [info_popup pop_title="Headline at the Top of the Window" message="This is the main text" pop_image="example.jpg"]clickable text in your post or page.[/info_pop]
@@ -62,7 +61,9 @@ Installation for General Use
 
 == Screenshots ==
 
-1. Screenshot of the options menu.
+1. A screenshot of a window that has animated into the viewport.
+
+2. The options page.
 
 == Changelog ==
 
