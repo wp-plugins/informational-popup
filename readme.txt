@@ -40,7 +40,8 @@ http://www.gnu.org/licenses/gpl.html.
 
 Installation for General Use
 
-1. Upload the whole `info_pop_plugin` folder to the `/wp-content/plugins/` directory.
+
+1. Upload the whole `informational-popup` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the Plugins menu in WordPress.
 3. In a post or page use the shortcode [info_popup pop_title='Headline at the Top of the Window' message='This is the main text']clickable text in your post or page.[/info_pop] to create a popup link.
 4. To change the look of the popup window or adjust the animation, go to the dashboard and click the infomational popup link.
