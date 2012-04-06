@@ -62,9 +62,9 @@ Installation for General Use
 
 == Screenshots ==
 
-1. The options page.
+1. Here's an example of a window.
 
-2. Here's an example of a window that has animated into the viewport.
+2. The options page.
 
 == Changelog ==
 
