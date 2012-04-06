@@ -62,9 +62,9 @@ Installation for General Use
 
 == Screenshots ==
 
-1. A screenshot of a window that has animated into the viewport.
+1. The options page.
 
-2. The options page.
+2. Here's an example of a window that has animated into the viewport.
 
 == Changelog ==
 
