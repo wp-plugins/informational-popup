@@ -62,9 +62,9 @@ Go to your theme's search.php page. Find the main loop and look for the_excerpt(
 
 == Screenshots ==
 
-1. Here's an example of a window.
+1. The options page.
 
-2. The options page.
+2. Here's an example of a window.
 
 == Changelog ==
 
