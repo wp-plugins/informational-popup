@@ -8,6 +8,8 @@ Stable tag: 1.0
 
 Creates informational popups that animate into the viewport.  
 
+WORKING OUT A POSSIBLE BUG!!! PLEASE CHECK BACK LATER.
+
 == Description ==
 
 Informational Popup is a shortcode to create animated popup windows. It supports text, images, links, and video embeds. Create dynamic foot notes, explore digressions, extend your posts.  
