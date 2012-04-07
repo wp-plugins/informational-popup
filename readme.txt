@@ -6,8 +6,6 @@ Requires at least: 2.8
 Tested up to: 3.3.1
 Stable tag: 1.0  
 
-Creates informational popups that animate into the viewport.  
-
 WORKING OUT A POSSIBLE BUG!!! PLEASE CHECK BACK LATER.
 
 == Description ==
