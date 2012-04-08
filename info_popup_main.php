@@ -283,7 +283,7 @@ function my_theme_options() {
 	<div class="colorpicker">
 	<div id="colorpicker_pop_border"></div>
 	</div>
-        <div>fields blank? Enter a color code like #000000 (black) or #ffffff (white)</div>
+        
 	<input type="text" size="7" name="pop_border_color" value="<?php echo $pop_border_color; ?>" id="pop_border_color_input" />
  	<br />
  	</div><!--END border color_form-->

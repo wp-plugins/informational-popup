@@ -89,7 +89,7 @@ $pop_bg_update_result = get_option('pop_bg_color');
 	<br />
 	<h3 class="set_options_header"><a href="<?php echo site_url('/');?>"><span id="home_from_info_update">Return to homepage.</span></a></h3>
         <br />
-         <h3 class="set_options_header"><a href="<?php echo site_url('/');?>wp-content/plugins/informational-popup/info_popup_view.php">Go back to infomational popup styles</a></h3>
+         <h3 class="set_options_header"><a href="<?php echo site_url('/');?>wp-admin/themes.php?page=my-theme-options">Go back to infomational popup styles</a></h3>
 </div>
 </body>
 </html>
@@ -110,7 +110,7 @@ else{?>
 	<br />
 	<h3 class="set_options_header"><a href="<?php echo site_url('/');?>"><span id="home_from_info_update">Return to homepage.</span></a></h3>
         <br />
-         <h3 class="set_options_header"><a href="<?php echo site_url('/');?>wp-content/plugins/informational-popup/info_popup_view.php">Go back to infomational popup styles</a></h3>
+         <h3 class="set_options_header"><a href="<?php echo site_url('/');?>wp-admin/themes.php?page=my-theme-options">Go back to infomational popup styles</a></h3>
 </div>
 </body>
 </html>
