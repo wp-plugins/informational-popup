@@ -209,7 +209,7 @@ function my_theme_options() {
 	$pop_animation_type = get_option('pop_animation_type');
 
         //set defaults for a fresh install
-        if (!isset($pop_bg_color) && !isset($pop_text_color) ){
+        if ($pop_bg_color == null){
 	$pop_text_color = '#000000';
 	$pop_border_color = '#000000';
 	$pop_animate_left =  800;
@@ -283,7 +283,7 @@ function my_theme_options() {
 	<div class="colorpicker">
 	<div id="colorpicker_pop_border"></div>
 	</div>
- 
+        <div>fields blank? Enter a color code like #000000 (black) or #ffffff (white)</div>
 	<input type="text" size="7" name="pop_border_color" value="<?php echo $pop_border_color; ?>" id="pop_border_color_input" />
  	<br />
  	</div><!--END border color_form-->
