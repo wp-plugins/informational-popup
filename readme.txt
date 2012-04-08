@@ -21,6 +21,8 @@ Here's a template you can copy and paste:
 
 Use the code above in any page or post.
 
+To set colors and animation for the popups, go to Appearance->info popup options.
+
 == License ==
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
