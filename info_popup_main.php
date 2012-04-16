@@ -118,7 +118,7 @@ function the_returned_search_query() {
 	.clicked_text_'.$pop_id_num.'{color: '.$pop_post_text_color.'; font-weight: bold;cursor:pointer;}
 	span.clicked_text_'.$pop_id_num.':hover{color:#666666;}
 	
-	#popup_div_'.$pop_id_num.'{display: block; color: '.$pop_text_color.'; font-style: italic;font-weight: bold; display: none; background-color: '.$pop_bg_color.'; border: '.$pop_border_width.'px '.$pop_border_color.' solid;position:absolute;left:-2500px; padding: 20px; z-index: 9000;}
+	#popup_div_'.$pop_id_num.'{display: block; color: '.$pop_text_color.'; font-style: italic;font-weight: bold; display: none; background-color: '.$pop_bg_color.'; border: '.$pop_border_width.'px '.$pop_border_color.' solid;position:absolute;left:-2500px; padding: 20px; z-index: 9997;}
 
 	#close_btn_'.$pop_id_num.'{cursor:pointer; margin-bottom: 10px;} 
 	.line_div{position: absolute; top: 83%; border-top: 1px #b7b1b1 solid; width: 290px;} 
