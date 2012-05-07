@@ -6,6 +6,8 @@ Description: shortcode for nice looking, easy popups. supports photos and video
 Version: 1.0
 Author: Josh Keen
 
+
+NEW NOTE
 License: GPL2
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
