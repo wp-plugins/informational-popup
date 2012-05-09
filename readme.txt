@@ -6,7 +6,7 @@ Requires at least: 2.8
 Tested up to: 3.3.1
 Stable tag: trunk  
 
-under construction!!!!!!   
+Informational Popup. Create dynamic foot notes, explore digressions, extend your posts.    
   
 
 == Description ==
@@ -49,7 +49,7 @@ http://www.gnu.org/licenses/gpl.html.
 
 == Installation ==
 
-Installation for General Use
+Installation and General Use
 
 
 1. Upload the whole `informational-popup` folder to the `/wp-content/plugins/` directory.
