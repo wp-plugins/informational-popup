@@ -6,8 +6,6 @@ Description: shortcode for nice looking, easy popups. supports photos and video
 Version: 1.0
 Author: Josh Keen
 
-
-NEW NOTE
 License: GPL2
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -21,8 +19,6 @@ GNU General Public License for more details:
 
 http://www.gnu.org/licenses/gpl.html.
 
-here is a new note --I'm testing soemthing in subversion
-another note
 */
 
 
@@ -90,7 +86,7 @@ function the_returned_search_query() {
          
 }	else{
 	  
-          $complete_img_path = $blog_url.'wp-content/plugins/informational-popup/pop-images/'.$pop_image;
+          $complete_img_path = $blog_url.$pop_image;
 	  $img_div = '<img src="'.$complete_img_path.'" alt="popup image '.$pop_image.'" id="img_tag_'.$pop_id_num.'" />';
        
         
@@ -155,12 +151,11 @@ function the_returned_search_query() {
 	<a href="<?php echo bloginfo('wpurl'); echo '/wp-content/plugins/informational-popup/tester.php'; ?>">info popup manager</a><br /><p>Choose styles for your shortcode popups.</p>
 <?php } 
 
-	// Create the function use in the action hook
+	// Create the function to use in the action hook
 
 	function popup_add_dashboard_widgets() {
 	wp_add_dashboard_widget('popup_dashboard_widget', 'info popup Dashboard Widget', 'popup_dashboard_widget_function');	
 } 
-
 	// Hook into the 'wp_dashboard_setup' action to register our other functions
 
 add_action('wp_dashboard_setup', 'popup_add_dashboard_widgets' );

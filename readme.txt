@@ -6,12 +6,12 @@ Requires at least: 2.8
 Tested up to: 3.3.1
 Stable tag: trunk  
 
-UNDER CONTRUCTION. DO NOT DOWNLOAD! Sorry, please check back later.
+under construction!!!!!!   
   
 
 == Description ==
 
-Informational Popup shortcode to create animated popup windows. It supports text, images and links. Create dynamic foot notes, explore digressions, extend your posts.  
+This is a shortcode to create animated popup windows. It supports text, images and links. Create dynamic foot notes, explore digressions, extend your posts.  
 
 example: 
 [info_popup pop_title="Headline at the Top of the Window" message="This is the main text" pop_image="example.jpg"]clickable text in your post or page.[/info_pop]
@@ -20,15 +20,12 @@ Here's a template you can copy and paste:
 
 [info_popup pop_title='PASTE THE WINDOW'S HEADLINE HERE' message='PASTE THE MAIN TEXT HERE' pop_image='example.jpg']THIS TEXT WILL SHOW AS BEING CLICKABLE IN YOUR POST BECAUSE IT'S WRAPPED IN THE SHORTCODE[/info_popup]
 
-Upload the images you want to use in your popups to (YOUR DOMAIN)/wp-content/plugins/informational-popup/pop-images
-
-You can add anchor tags anywhere in the message="". 
 
 Example:
 
 I'm using (open anchor tag here) in the example because otherwise it will render as a live anchor tag on this page (the wordpress plugin repository page you're visiting right now).
 
-[info_popup pop_title="Here's a Headline!" message="Here's a message! And here is a (open anchor tag here) a link to the onion.(close anchor tag here)" pop_image="example.jpg"]Click me![/info_popup]   
+[info_popup pop_title="Here's a Headline!" message="Here's a message! And here is a (open anchor tag here) link to the onion.(close anchor tag here)" pop_image="example.jpg"]Click me![/info_popup]   
 
 
 Use the code above in any page or post.
@@ -59,7 +56,8 @@ Installation for General Use
 2. Activate the plugin through the Plugins menu in WordPress.
 3. In a post or page use the shortcode [info_popup pop_title='Headline at the Top of the Window' message='This is the main text']clickable text in your post or page.[/info_popup] to create a popup link.
 4. Go to the dashboard, select appearance->info popup options, choose styles and click set style options.
-5. Upload images you want to use in your popups to this directory: [your domain]/wp-content/plugins/informational-popup/popup-images
+5. YOU MUST CLICK "set popup options" TO INITIALIZE POPUP WINDOWS WHEN YOU FIRST INSTALL THIS PLUGIN!
+6. Upload images anywhere to any directory (folder) in your website's domain. 
 
 == FAQ ==
 
