@@ -12,7 +12,7 @@ Informational Popup. Create dynamic foot notes, explore digressions, extend your
 == Description ==
 
 This is a shortcode to create animated popup windows. It supports text, images and links. Create dynamic foot notes, explore digressions, extend your posts.  
-
+Check out <a href="http://www.marcusmeditations.info/dicussion/">the live demo.</a>
 example: 
 [info_popup pop_title="Headline at the Top of the Window" message="This is the main text" pop_image="example.jpg"]clickable text in your post or page.[/info_pop]
 
